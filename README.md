@@ -16,3 +16,4 @@
 - Xử lý file *other.tsv* để lấy transcript: `python .\make_transcipt.py`
 # 3. Chạy forced alignment:
 - `mfa align ./data/clips vietnamese_mfa vietnamese_mfa ./data/clips_aligned`
+- Có thể lấy luôn kết quả có sẵn trong *./data/clips_aligned*
